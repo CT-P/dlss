@@ -1,5 +1,4 @@
-# dlss
-Deep Learning Social Sciences
+# Deep Learning Social Sciences
 
 Deep learning is all around us, in face recognition, natural language processing, and in many other places. Deep means that data are represented through multiple layers. This introduces a great deal of flexibility in the model, with the effect that predictions become much better.
 
@@ -7,7 +6,7 @@ In the social sciences, too, deep learning is starting to be used. This is not s
 
 This course introduces the most important algorithms and applications of deep learning. It does so using Python, arguably the most important programming language for deep learning. We discuss the basics of deep learning, including tensors. We then move to convolutional, recurrent, and adversarial networks, as well as restricted Boltzmann machines. We apply the methods to images, text, time series, and choice data. The course alternates between lectures and hands-on programming sessions.
 
-[[_TOC_]]
+
 
 ## References
 
