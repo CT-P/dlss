@@ -17,10 +17,10 @@ The first and the second labs are about python and data wrangling, they are a me
 - https://github.com/jakevdp/WhirlwindTourOfPython/tree/6f1daf714fe52a8dde6a288674ba46a7feed8816
 - https://swcarpentry.github.io/python-novice-inflammation/
 
-## Class 2 (W2) : [Introduction to Python](https://github.com/CT-P/deeplearning4socialsciences/-/blob/main/Week%202%20-%20Class%202%20LAB.ipynb)
-## Class 3 (W3): [Data wrangling: numbers, text and images](https://github.com/CT-P/deeplearning4socialsciences/-/blob/main/Week%203%20-%20Class%203%20LAB.ipynb)
-## Class 6 (W6): [Programming feed-forward neural networks](https://github.com/CT-P/deeplearning4socialsciences/-/blob/main/Week%206%20-%20Class%206%20LAB.ipynb)
+## Class 2 (W2) : [Introduction to Python](https://github.com/CT-P/dlss/blob/main/Week%202%20-%20Class%202%20LAB%20SOL.ipynb)
+## Class 3 (W3): [Data wrangling: numbers, text and images](https://github.com/CT-P/dlss/blob/main/Week%203%20-%20Class%203%20LAB%20SOL.ipynb)
+## Class 6 (W6): [Programming feed-forward neural networks](https://github.com/CT-P/dlss/blob/main/Week%206%20-%20Class%206%20LAB.ipynb)
 ## Class 7 (W7): [Working with Keras](https://github.com/CT-P/deeplearning4socialsciences/-/blob/main/Week%207%20-%20Class%208%20LAB.ipynb)
-## Class 9 (W10):  [Convolutional neural networks for image detection](https://github.com/CT-P/deeplearning4socialsciences/-/blob/main/Week%2010%20-%20Class%209%20LAB.ipynb)
-## Class 11 (W12): [Recurrent networks for time series and text analysis](https://github.com/CT-P/deeplearning4socialsciences/-/blob/main/Week%2012%20-%20Class%2011%20LAB.ipynb)
-## Class 13 (W14): [Generative adversarial networks (GANs)](https://github.com/CT-P/deeplearning4socialsciences/-/blob/main/Week%2014%20-%20Class%2013%20LAB.ipynb)
+## Class 9 (W10):  [Convolutional neural networks for image detection](https://github.com/CT-P/dlss/blob/main/Week%2010%20-%20Class%209%20LAB.ipynb)
+## Class 11 (W12): [Recurrent networks for time series and text analysis](https://github.com/CT-P/dlss/blob/main/Week%2012%20-%20Class%2011%20LAB.ipynb)
+## Class 13 (W14): [Generative adversarial networks (GANs)](https://github.com/CT-P/dlss/blob/main/Week%2014%20-%20Class%2013%20LAB.ipynb)
